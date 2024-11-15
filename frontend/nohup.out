@@ -1,0 +1,150 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+   ▲ Next.js 14.1.4
+   - Local:        http://localhost:3000
+   - Environments: .env
+
+ ✓ Ready in 2.7s
+[?25h
+
+> frontend@0.1.0 dev
+> next dev
+
+   ▲ Next.js 14.1.4
+   - Local:        http://localhost:3000
+   - Environments: .env
+
+ ✓ Ready in 3.4s
+ ○ Compiling / ...
+ ✓ Compiled / in 1993ms (312 modules)
+ ✓ Compiled in 297ms (312 modules)
+Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://rsms.me/inter/inter.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+ ○ Compiling /register ...
+ ✓ Compiled /register in 957ms (348 modules)
+ ✓ Compiled /login in 348ms (354 modules)
+ ○ Compiling /adminlogin ...
+ ✓ Compiled /adminlogin in 714ms (312 modules)
+ ✓ Compiled /transaction in 271ms (327 modules)
+ ✓ Compiled /_error in 141ms (329 modules)
+Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://rsms.me/inter/inter.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+ ○ Compiling /verify ...
+ ✓ Compiled /verify in 577ms (343 modules)
+ ○ Compiling /register ...
+ ✓ Compiled /register in 1028ms (360 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 767ms (354 modules)
+ ✓ Compiled /login in 392ms (360 modules)
+ ✓ Compiled /adminlogin in 159ms (358 modules)
+ ✓ Compiled /transaction in 99ms (362 modules)
+ ✓ Compiled /verify in 113ms (368 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 581ms (350 modules)
+Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://rsms.me/inter/inter.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+ ✓ Compiled /login in 137ms (356 modules)
+ ✓ Compiled /adminlogin in 159ms (346 modules)
+ ✓ Compiled /verify in 224ms (354 modules)
+ ✓ Compiled /register in 161ms (350 modules)
+
+> frontend@0.1.0 dev
+> next dev
+
+   ▲ Next.js 14.1.4
+   - Local:        http://localhost:3000
+   - Environments: .env
+
+ ✓ Ready in 2.8s
+ ○ Compiling / ...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+ ✓ Compiled / in 2.3s (323 modules)
+ ✓ Compiled in 357ms (323 modules)
+ ○ Compiling /login ...
+ ✓ Compiled /login in 1231ms (346 modules)
+ ✓ Compiled /_error in 163ms (348 modules)
+ ○ Compiling /adminlogin ...
+ ✓ Compiled /adminlogin in 617ms (352 modules)
+ ✓ Compiled /transactions in 346ms (408 modules)
+ ✓ Compiled /view-transactions in 298ms (412 modules)
+Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://rsms.me/inter/inter.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+ ○ Compiling /verify ...
+ ✓ Compiled /verify in 1445ms (365 modules)
+ ○ Compiling /manageusers ...
+ ✓ Compiled /manageusers in 635ms (421 modules)
+ ○ Compiling /edituser ...
+ ✓ Compiled /edituser in 562ms (425 modules)
+ ○ Compiling /viewuser ...
+ ✓ Compiled /viewuser in 684ms (454 modules)
+ ✓ Compiled / in 260ms (458 modules)
+ ○ Compiling /register ...
+ ✓ Compiled /register in 1124ms (352 modules)
+ ✓ Compiled / in 226ms (325 modules)
+ ✓ Compiled /login in 402ms (346 modules)
+ ✓ Compiled /_error in 178ms (348 modules)
+
+> frontend@0.1.0 dev
+> next dev
+
+   ▲ Next.js 14.1.4
+   - Local:        http://localhost:3000
+   - Environments: .env
+
+ ✓ Ready in 6.1s
+ ○ Compiling / ...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+ ✓ Compiled / in 7.1s (323 modules)
+ ✓ Compiled in 751ms (323 modules)
+ ○ Compiling /login ...
+ ✓ Compiled /login in 3.5s (346 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 647ms (348 modules)
+Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://rsms.me/inter/inter.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+
+> frontend@0.1.0 dev
+> next dev
+
+   ▲ Next.js 14.1.4
+   - Local:        http://localhost:3000
+   - Environments: .env
+
+ ✓ Ready in 4.1s
+ ○ Compiling / ...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+ ✓ Compiled / in 3.8s (323 modules)
+ ✓ Compiled in 561ms (323 modules)
+ ○ Compiling /login ...
+ ✓ Compiled /login in 1724ms (346 modules)
+ ✓ Compiled /_error in 169ms (348 modules)
+Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://rsms.me/inter/inter.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+
+> frontend@0.1.0 dev
+> next dev
+
+   ▲ Next.js 14.1.4
+   - Local:        http://localhost:3000
+   - Environments: .env
+
+ ✓ Ready in 6.4s
+ ○ Compiling / ...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+ ✓ Compiled / in 5.6s (323 modules)
+ ✓ Compiled in 826ms (323 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 2.2s (321 modules)
+ ✓ Compiled / in 314ms (323 modules)
+ ✓ Compiled /_error in 389ms (321 modules)
+ ✓ Compiled / in 381ms (325 modules)
