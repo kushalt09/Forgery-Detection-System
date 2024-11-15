@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@types/react-easy-crop": "^2.0.0",
+    "axios": "^1.7.2",
+    "cropperjs": "^1.6.2",
+    "react-easy-crop": "^5.0.8",
+    "react-modal": "^3.16.1",
+    "react-toastify": "^10.0.5"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/react-modal": "^3.16.3"
+  }
+}
